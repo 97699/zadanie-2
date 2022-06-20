@@ -26,6 +26,11 @@ int main()
             Objszes(a);
             break;
             }
+            default: 
+            {
+            printf("koniec\n");
+            break;
+            }
         }
     }
 
