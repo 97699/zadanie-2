@@ -5,5 +5,5 @@ void Polkwa(float a)
 {
 float b;
 b=a*a;
-    printf("Pole kwadratu wynosi: %0.2f m2\n",b);
+    printf("Pole kwadratu = %0.2f m2\n",b);
 }
