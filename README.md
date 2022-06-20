@@ -1,6 +1,6 @@
 # zadanie-2
 - pierwszy comit → inicjalizacja repo
-Utworzenie plików szescian.h oraz kwadrat.h, które zawierają deklaracje funkcji "Polkwa" i "Objszes"
+Utworzenie plików szes.h oraz kwa.h, które zawierają deklaracje funkcji "Polkwa" i "Objszes"
 Utworzenie plików szes.c oraz kwa.c posiadają one działanie funkcji zwaracając wynik 
 Utworzenie pliku main.c zawierające menu z którego możemy uruchomić funkcje
 
