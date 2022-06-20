@@ -15,7 +15,7 @@ int main()
         {
             case 1:
             {
-            printf("Podaj krawedz kwadratu:"); 
+            printf("Podaj bok kwadratu:"); 
             scanf("%f",&a); Polkwa(a);
             break;
             }
@@ -23,7 +23,8 @@ int main()
             {
             printf("Podaj krawedz szescianu:");
             scanf("%f",&a);
-            Objszes(a);break;
+            Objszes(a);
+            break;
             }
             case 3:
             {
