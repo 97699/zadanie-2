@@ -26,10 +26,6 @@ int main()
             Objszes(a);
             break;
             }
-            case 3:
-            {
-            break;
-            }
         }
     }
 
